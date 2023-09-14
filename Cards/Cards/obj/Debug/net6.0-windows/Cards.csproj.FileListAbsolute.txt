@@ -1,0 +1,17 @@
+C:\Users\Y\source\repos\Cards\Cards\bin\Debug\net6.0-windows\Cards.exe
+C:\Users\Y\source\repos\Cards\Cards\bin\Debug\net6.0-windows\Cards.deps.json
+C:\Users\Y\source\repos\Cards\Cards\bin\Debug\net6.0-windows\Cards.runtimeconfig.json
+C:\Users\Y\source\repos\Cards\Cards\bin\Debug\net6.0-windows\Cards.dll
+C:\Users\Y\source\repos\Cards\Cards\bin\Debug\net6.0-windows\Cards.pdb
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.Form1.resources
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.Properties.Resources.resources
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.csproj.GenerateResource.cache
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.AssemblyInfoInputs.cache
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.AssemblyInfo.cs
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.csproj.CoreCompileInputs.cache
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.dll
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\refint\Cards.dll
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.pdb
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\Cards.genruntimeconfig.cache
+C:\Users\Y\source\repos\Cards\Cards\obj\Debug\net6.0-windows\ref\Cards.dll
